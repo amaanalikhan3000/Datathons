@@ -1,1 +1,1 @@
-Deep Learning Model to predict Churn Rate at bank
+Deep Learning Model to predict Whether a person has exited a bank or not
