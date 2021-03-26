@@ -1,0 +1,10 @@
+
+
+I have made a machine learning model to find out if the first player has won 
+the game or not given the connect-4 positions using SUPERVISED classification learning algorithms &
+evaluated the model based on f1 score which is pretty decent 91.5%
+
+
+In this I have used SMOTE in order to solve imbalance, Random forest estimator with 30 estimators
+The weighted f1 score comes out to be 0.915471900100844 which ~ 91.5%. Apart from that I have also used MinMax 
+Scaler in order to scale the data
