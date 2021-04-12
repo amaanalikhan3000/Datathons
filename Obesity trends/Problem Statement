@@ -1,0 +1,20 @@
+----------------- OBJECTIVE: Build a machine learning model that would help us estimate the percentage of obese population--------------------
+
+
+Obesity is a complex disorder characterised by an excess of body fat. Obesity is more than a cosmetic problem. 
+It's a medical condition that raises the chances of developing other illnesses and health issues including heart disease,
+diabetes, high blood pressure, and some cancers.
+
+Obesity is a global problem that leads to a slew of serious medical issues. Obesity will rise to about 45 percent of the population by 2035. 
+The proportion of morbidly obese people will rise, as will healthcare costs. Implementing a system that can predict the percentage
+of obese people for a given time period based on their age, income, location, high and low confidence levels of obesity, education, gender, social status,
+and other factors can aid in the fight against obesity.
+
+-Data Visualisation
+
+-Exploratory Data Analysis (EDA)
+
+-Data Preparation
+
+
+
