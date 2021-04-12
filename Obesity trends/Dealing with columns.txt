@@ -1,0 +1,22 @@
+# TOPICS,  - onehot
+# QUESTION, - label encoding
+# CLASSID, - onehot
+# TOPICID, - onehot
+# QUESTIONID, - label encodoing 
+# STATRIFICATIONID1,
+# StratificationCategory1- drop
+# Stratification - drop
+# class - one hot
+
+
+
+drop
+yearEnd
+Education,Race,Income,Gender,Age
+
+
+Geolocation - mean
+
+
+LocationAbbr
+LocationDesc
