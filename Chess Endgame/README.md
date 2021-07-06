@@ -1,5 +1,6 @@
+------------------------------------- DATATHON39: CHESS ENDGAME---------------------------------------
+This is a datathon organised by Dphi which started on 2nd July 2021 and ended of 5th of the same.
 
-Chess endgames are complex domains which are enumerable. Endgame databases are tables of stored game-theoretic values for the enumerated elements (legal positions) of the domain. The game-theoretic values stored denote whether or not positions are won for either side, or include also the depth of win (number of moves) assuming minimax-optimal play
+The task was to build a machine learning model to calculate the number of moves required to win the game.
 
-
-Used XGBClassifier which gave f1score of 84.923 on unseen data
+Used XGBClassifier along with tuning the hyperparameters of the same to get f1 score of 84.923 on unseen data.
